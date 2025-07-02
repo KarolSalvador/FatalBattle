@@ -8,6 +8,11 @@ Você pode jogar **Fatal Battle** diretamente no navegador, clicando no link aba
 
 [**Acesse o jogo no Vercel**](https://fatal-battle.vercel.app/)
 
+## 📷 Captura de Tela
+
+![Fatal Batle - Captura de tela](https://i.postimg.cc/GmsYJyr6/Captura-de-tela-2025-07-02-161446.png)
+
+
 ## 🎮 Como Jogar
 
 1. Escolha seu personagem e prepare-se para a batalha!
