@@ -30,6 +30,10 @@ body {
   p {
     color: white;
   }
+
+#container {
+    max-width: 800px;
+}
   
   /*estilização lista players */
   .lista-lutadores {
